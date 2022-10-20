@@ -23,7 +23,7 @@ importers:
   packages/ts:
     specifiers: {}
 
-  packages/ts-vue:
+  packages/vue-ts:
     specifiers: {}
 
 packages:
