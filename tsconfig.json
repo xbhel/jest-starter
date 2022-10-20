@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedParameters": true,
+    "resolveJsonModule": true,
+    "noImplicitReturns": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "strictFunctionTypes": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "useDefineForClassFields": true,
+    "sourceMap": true,
+    "baseUrl": "./",
+    "types": ["jest"],
+    "lib": ["esnext"]
+  },
+  "exclude": ["**/node_modules"]
+}

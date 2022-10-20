@@ -1,0 +1,12 @@
+{
+  "name": "@jest-starter/ts",
+  "version": "1.0.0",
+  "description": "@jest-starter/ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
