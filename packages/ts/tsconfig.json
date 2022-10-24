@@ -1,0 +1,6 @@
+{
+  "references": [{ "path": "../../tsconfig.json" }],
+  "compilerOptions": {
+    "isolatedModules": true
+  }
+}
